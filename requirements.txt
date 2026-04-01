@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+xmltodict
+pdfplumber
+openpyxl
+pytesseract
+Pillow
